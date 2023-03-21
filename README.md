@@ -1,0 +1,1 @@
+# simple_franka_panda_description
